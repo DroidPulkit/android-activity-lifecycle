@@ -1,4 +1,4 @@
-# android-activity-lifecycle
+# android-screen-orientation
 This is App to see Screen Orientation Lock
 
 How to Download this and setup
