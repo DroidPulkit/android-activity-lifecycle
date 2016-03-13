@@ -1,5 +1,5 @@
 # android-activity-lifecycle
-This is App to see Android Activity lifecycle 
+This is App to see Screen Orientation Lock
 
 How to Download this and setup
 
@@ -15,10 +15,6 @@ Find the VivzAndroidLifecycle Folder and click ok
 
 All the files will be listed click on Run or press Shift+F10
 
-Choose Emulator of your choice or choose the Android Device if you have plugged in the Android Device
+The screen will be locked in Landscape mode
 
-When the app is running Click on Android Monitor at the Bottom part of Android Studio and Click log
-
-Filter the log with TAG="VIVZ"
-
-and see the process while running on emulatoe or android device
+NOTE: To change screen lock mode to portrait change in android manifest file android:screenOrientation:"landscape" to android:screenOrientation:"portrait"
